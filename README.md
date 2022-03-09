@@ -2,7 +2,7 @@
 A Simple Recipe Application used HTML, CSS & JavaScript.
 
 ## About Project
-
+Recipes are stored in Databse.
 
 ## Tech Stacks Used
 
