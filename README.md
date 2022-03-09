@@ -1,6 +1,8 @@
 # SimplyRecipes
 A Simple Recipe Application used HTML, CSS & JavaScript.
 
+## About Project
+
 
 ## Tech Stacks Used
 
