@@ -1,5 +1,7 @@
 # SimplyRecipes
-A Simple Recipe Application are stored in Databse.
+A Simple Recipe Application used HTML, CSS & JavaScript.
+
+
 
 ## Tech Stacks Used
 
