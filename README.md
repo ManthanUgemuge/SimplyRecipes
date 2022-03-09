@@ -1,5 +1,5 @@
 # SimplyRecipes
-Simple Recipes are stored in Databse.
+A Simple Recipe Application are stored in Databse.
 
 ## Tech Stacks Used
 
