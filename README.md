@@ -17,7 +17,7 @@ Recipes are stored in Databse.
 ```
 https://github.com/ManthanUgemuge/SimplyRecipes.git
 ```
-Run - SimplyRecipes()
+Run - [Live]()//[Download]()
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
